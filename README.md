@@ -29,8 +29,8 @@ Here are some visual insights from the application:
 ## ⚙️ Prerequisites & Environment
 
 To run this project locally, ensure you have the following environment set up:
-* **Flutter SDK:** ^3.x.x
-* **Dart SDK:** Compatible with the selected Flutter version
+* **Flutter SDK:** ^3.44.4
+* **Dart SDK:** Compatible with the selected Flutter version 3.12.2 ,DevTools 2.57.0
 * **IDE:** VS Code or Android Studio with Flutter/Dart extensions installed
 
 ---
